@@ -36,13 +36,11 @@
 			<checksum>https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/</datadir>
 		        </dir>
-			<!--
 			<dir>
 			<info compressed="false">https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/zips/repository.qwarlock/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/zips/repository.qwarlock/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/zips/</datadir>
-				</dir>
-			-->		
+			</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">The Qwarlock team is dedicated to building quality software for the opensource and non performing arts industries.</summary>
