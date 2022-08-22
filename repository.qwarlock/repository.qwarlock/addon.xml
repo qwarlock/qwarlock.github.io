@@ -2,8 +2,8 @@
 <addon id="repository.qwarlock" name="[COLOR orchid]THE QWARLOCK REPO[/COLOR]" provider-name="The Qwarlock" version="0.0.1">
 	<extension point="xbmc.addon.repository" name="The Qwarlock" >
 			<dir>
-			<info compressed="false">https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/zips/repository.qwarlock/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/zips/repository.qwarlock/addons.xml.md5</checksum>
+			<info compressed="false">https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/repository.qwarlock/repository.qwarlock/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/repository.qwarlock/repository.qwarlock/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/qwarlock/qwarlock.github.io/master/zips/</datadir>
 			</dir>
 	</extension>
